@@ -1,0 +1,8 @@
+Research & Planning Log
+-----------------------
+
+    Friday 4/29
+-------------------
+* 8:00 Project Proposal
+* 8:30 Research Pokemon Api
+    10:00 Decided on an Api [https://pokeapi.co/]
