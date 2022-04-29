@@ -6,3 +6,10 @@ Research & Planning Log
 * 8:00 Project Proposal
 * 8:30 Research Pokemon Api
     10:00 Decided on an Api [https://pokeapi.co/]
+* 10:00 Look into using an Api with React
+    *Resources used :
+        * [https://reactjs.org/]
+        * [https://www.youtube.com/watch?v=hzLDsxPGctY]
+        * [https://www.youtube.com/watch?v=FY8hnbMRJEc]
+
+*
