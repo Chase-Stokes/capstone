@@ -7,20 +7,21 @@ function Dex() {
         .then((response) => response.json())
         .then((json) => setDex(json));
     }, []);
-    console.log(pokedex)
+    // console.log(pokedex)
     return (
-        (pokedex && <div>
-            {/* <ul> */}
-                {/* {pokedex.pokemon_entries.map((dexInfo) => {
-                <li>{dexInfo.pokemon_species.name}</li>
-                })}  */}
-                {(pokedex.pokemon_entries).forEach(function(element) {
-                    console.log(element.pokemon_species.name)
-                // <li>{element.pokemon_species.name}</li>
-                })} 
-            {/* </ul> */}
-        </div>) 
+        <>   
+            {pokedex.pokemon_entries.forEach(function(element){
+                <li>{element.pokemon_species.name}</li>
+            })}
+            {/* {(pokedex && <li>
+                    {(pokedex.pokemon_entries).forEach(function(element) {
+                        // console.log(element.pokemon_species.name)
+                    element.pokemon_species.name
+                    })} 
+            </li>)} */}
+                
+        </>
     )
-}
+} 
 
 export default Dex;

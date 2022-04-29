@@ -13,3 +13,12 @@ Research & Planning Log
         * [https://www.youtube.com/watch?v=FY8hnbMRJEc]
 
 * 1:00 Continue Api Endpoint Research
+
+* 3:00 React Api Struggles
+
+* 3:20 Change Gears to Researching Axios and Bootstrap is React
+  -Axios  
+    * [https://axios-http.com/docs/intro]
+    * [https://www.freecodecamp.org/news/how-to-use-axios-with-react/]
+  -Bootstrap  
+    * [https://react-bootstrap.github.io/getting-started/introduction/]

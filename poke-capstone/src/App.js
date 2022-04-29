@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Dex from "./Dex";
+import Control from "./Control";
 
 function App() {
   const [pokemon, setPokemon] = React.useState(null);
@@ -11,14 +11,14 @@ function App() {
     .then((json) => setPokemon(json));
   }, []);
   return (
-    <ul>
-      <Dex/>  
-    </ul>
-    // (pokemon && <div className="App">
-    //   <img src={pokemon.sprites.back_default}/>
-    //   <img src={pokemon.sprites.front_default}/>  
-    //   <Dex />
-    // </div>)
+    <>
+      <Control />
+      {/* {(pokemon && <div className="App">
+        <img src={pokemon.sprites.back_default}/>
+        <img src={pokemon.sprites.front_default}/>  
+        <Dex />
+      </div>)} */}
+    </>
   );
 }
 
