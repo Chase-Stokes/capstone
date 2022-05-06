@@ -64,5 +64,5 @@ Tech for Stretch goals:
 
 
 Instructor Notes:
-    Felt out of my element dealing with apis and canvas in the react framework, so switched it up to something that felt more accomplishable
+    Felt out of my element dealing with apis and canvas in the react framework, so switched it up to something that felt more accomplishable 
 
