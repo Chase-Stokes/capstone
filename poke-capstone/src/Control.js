@@ -33,4 +33,4 @@ class Control extends React.Component {
     }
 }
 
-export default Control;
+export default Control; 
