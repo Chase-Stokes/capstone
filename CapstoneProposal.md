@@ -66,3 +66,5 @@ Tech for Stretch goals:
 Instructor Notes:
     Felt out of my element dealing with apis and canvas in the react framework, so switched it up to something that felt more accomplishable 
 
+
+5/6/2022 (redux rundown videos)[https://codewithmosh.com/p/ultimate-redux]
