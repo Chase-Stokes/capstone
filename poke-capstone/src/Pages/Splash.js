@@ -11,7 +11,7 @@ const Splash = () => {
 
     const getPokemonList = async () => {
         let pokemonArray = [];
-        for(let i=1; i <= 350; i++) {
+        for(let i=1; i <= 151; i++) {
             pokemonArray.push(await getPokemonData(i));
         }
         console.log(pokemonArray);
