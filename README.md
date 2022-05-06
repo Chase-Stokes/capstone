@@ -24,3 +24,10 @@
     * (BootStrap with React)[https://react-bootstrap.github.io/getting-started/introduction/]
 
 * 4:00 Still reading previous docs   
+
+
+
+-----------------------------------------------------
+Tech Used
+
+* (Bootstrap)[https://getbootstrap.com/docs/5.1/getting-started/introduction/]
